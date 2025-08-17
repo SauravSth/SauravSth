@@ -1,8 +1,8 @@
 ## Hi there, I'm Saurav Shrestha 👋 
 
 ## 🔭 My Tech Stack
-I’m currently working on learning React with NodeJS to become a full-stack dev.
+I’m currently working on React to integrate it with my experience in NodeJS and MongoDB as a full-stack dev.
 ## 🌱 My Current Status
-I’m currently learning Web Development at Conestoga College. 
+I’m currently looking for work, am passionate and eager to make an impact in the market. 
 ## 📫 How to reach me 
-Best ways to reach me are linkedIn and Instagram
+Best ways to reach me are email, LinkedIn and Instagram
